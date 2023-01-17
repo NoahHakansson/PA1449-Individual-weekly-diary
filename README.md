@@ -13,8 +13,6 @@ Issues with composing relevant test data, we need large volumes of relevant data
 ## REFLECTION  
 Extremely hard to get one solution, it often seems to be context-based.
 
-`---`
-
 ## WEEK: 4 
 This week: 16 h 
 Total in project: 16 h 
