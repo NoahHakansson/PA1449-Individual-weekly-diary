@@ -1,8 +1,8 @@
 # Weekly Diary - Noah Håkansson
 
 ## WEEK: 4 
-This week: 15 h 
-Total in project: 15 h 
+- This week: 15 h
+- Total in project: 15 h 
 
 ### ACTIVITY & RESULT
 We all joined a discord server group together and started talking and getting to know each other. Worked on canvas assignments. We have contacted the customer and decided what time a meeting would work for all of us. We had a metting at their office this monday and stayed there working together and discussing our assignments and presentation. Me and the other requirements engineer wrote down some requirements based on the small amount of verbal info we have gotten so far from the customer, and we are planning to discuss this at our next meeting next monday. We also had our team and LeSS presentation.
