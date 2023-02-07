@@ -5,7 +5,7 @@
 - Meetings/Group work 11h
 - Lego 4h
 - Individual work 1h
-### Total in project: 45 h 
+### Total in project: 35 h 
 
 ### ACTIVITY & RESULT
 This week we continued on creating issue and tasks for our backlog. We finished the main issues for our MVP. Next week we will continue breaking these issues into smaller tasks. And assign them to the team for sprint 1.
