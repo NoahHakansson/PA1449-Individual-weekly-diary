@@ -1,11 +1,26 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 6 
+### This week: 21h
+- Meetings/Group work 16h
+- Seminar 3h
+- Individual work 2h
+### Total in project: 59h 
+
+### ACTIVITY & RESULT
+We created a risk analysis on Monday and continued on requirements and creating our backlog. The rest of the week was mostly continuing work on our backlog to prepare for sprint 1. We did also meet on Wednesday with a guy studying the AI program to have some discussions about how we can train our AI, what model to use and other things, he provided us with some good resources.
+
+### PROBLEMS & SOLUTIONS 
+Again we had some problems with GitLab, we started out using issues and in the issues creating tasks. But we noticed the tasks are quite limited in what you can write in them. and assigning of tasks in a issue is not great. What we found instead is milestones that can contain issues. So we converted our big issues into milestones and our tasks into issues in this milestone instead.
+
+### REFLECTION  
+Same as last week I think it was a productive week. I feel like we are quite well prepared for sprint 1.
 ## WEEK: 5 
-### This week: 16 h
+### This week: 16h
 - Meetings/Group work 11h
 - Lego 4h
 - Individual work 1h
-### Total in project: 35 h 
+### Total in project: 35h 
 
 ### ACTIVITY & RESULT
 This week we continued on creating issue and tasks for our backlog. We finished the main issues for our MVP. Next week we will continue breaking these issues into smaller tasks. And assign them to the team for sprint 1.
@@ -17,8 +32,8 @@ We have had some issues with GitLab and their boards and backlog features, but a
 Was a good and productive week, we are almost done with preparations so that we can hit the ground running on sprint 1.
 
 ## WEEK: 4 
-### This week: 19 h
-### Total in project: 19 h 
+### This week: 19h
+### Total in project: 19h 
 
 ### ACTIVITY & RESULT
 We all joined a discord server group together and started talking and getting to know each other. Worked on canvas assignments. We have contacted the customer and decided what time a meeting would work for all of us. We had a meeting at their office this Monday and stayed there working together and discussing our assignments and presentation. Me and the other requirements engineer wrote down some requirements based on the small amount of verbal info we have gotten so far from the customer, and we are planning to discuss this at our next meeting next Monday. We also had our team and LeSS presentation. Lastly on Friday we all gathered in Space lab and discussed all the requirements together improving and adding a lot if information. We also started discussing some libraries and technologies that we are going to use. As we are going to use `Node.js` and we need web sockets we have decided on the `socket.io` library.
