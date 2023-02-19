@@ -1,10 +1,10 @@
 # Weekly Diary - Noah Håkansson
 
 ## WEEK: 7 
-### This week: 22h
+### This week: 23h
 - Meetings/Group work 13h
-- Seminar 3h
-- Individual work 2h
+- Individual work 4h
+- Pair work 6h
 ### Total in project: 59h 
 
 ### ACTIVITY/TASKS & RESULT
