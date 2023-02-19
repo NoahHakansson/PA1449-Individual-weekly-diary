@@ -10,10 +10,7 @@
 ### ACTIVITY/TASKS & RESULT
 | Task    | hours    | Progress %    | Result    |
 |-------- | -------- | ------------- | --------- |
-| Setup CI/CD | 3    | 90/100        | CI/CD is done, only some small changes will be needed, after we implement testing in the frontend repo.|
-                                     | Setting up CI/CD went pretty smoothly as i have done it before many times on GitHub, |
-                                     | but as this was on GitLab it required a little bit of reaserch before implementing it. |
-                                     | But it was pretty straight forward and easy. |
+| Setup CI/CD | 3    | 90/100        | CI/CD is done, only some small changes will be needed, after we implement testing in the frontend repo. Setting up CI/CD went pretty smoothly as i have done it before many times on GitHub, but as this was on GitLab it required a little bit of reaserch before implementing it. But it was pretty straight forward and easy. |
 | Item1.2    | Item2.2   | Item3.2   | Item4.2   |
 | Item1.3   | Item2.3   | Item3.3   | Item4.3   |
 
