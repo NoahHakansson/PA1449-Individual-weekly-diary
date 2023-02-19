@@ -1,5 +1,30 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 7 
+### This week: 22h
+- Meetings/Group work 16h
+- Seminar 3h
+- Individual work 2h
+### Total in project: 59h 
+
+### ACTIVITY/TASKS & RESULT
+| Task    | hours    | Progress %    | Result    |
+|-------- | -------- | ------------- | --------- |
+| Setup CI/CD | 3    | 90/100        | CI/CD is done, only some small changes will be needed, after we implement testing in the frontend repo.
+                                        Setting up CI/CD went pretty smoothly as i have done it before many times on GitHub,
+                                        but as this was on GitLab it required a little bit of reaserch before implementing it.
+                                        But it was pretty straight forward and easy. |
+| Item1.2    | Item2.2   | Item3.2   | Item4.2   |
+| Item1.3   | Item2.3   | Item3.3   | Item4.3   |
+
+We created a risk analysis on Monday and continued on requirements and creating our backlog. The rest of the week was mostly continuing work on our backlog to prepare for sprint 1. We did also meet on Wednesday with a guy studying the AI program to have some discussions about how we can train our AI, what model to use and other things, he provided us with some good resources.
+
+### PROBLEMS & SOLUTIONS 
+Again we had some problems with GitLab, we started out using issues and in the issues creating tasks. But we noticed the tasks are quite limited in what you can write in them. and assigning of tasks in a issue is not great. What we found instead is milestones that can contain issues. So we converted our big issues into milestones and our tasks into issues in this milestone instead.
+
+### REFLECTION  
+Same as last week I think it was a productive week. I feel like we are quite well prepared for sprint 1.
+
 ## WEEK: 6 
 ### This week: 21h
 - Meetings/Group work 16h
