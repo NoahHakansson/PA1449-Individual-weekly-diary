@@ -1,11 +1,38 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 8 
+### This week: 23h
+- Meetings/Group work 13h
+- Individual work 4h
+- Pair work 6h
+### Total in project: 82h 
+
+### ACTIVITY/TASKS & RESULT
+| Task            | hours   | Progress %    | Result    |
+|---------------- | ------- | ------------- | --------- |
+| Setup CI/CD     | 3    | 90        | CI/CD is done, only some small changes will be needed, after we implement testing in the frontend repo. Setting up CI/CD went pretty smoothly as I have done it before many times on GitHub, but as this was on GitLab it required a little bit of reaserch before implementing it. But it was pretty straight forward and easy. |
+| Random generator/seed | 7   | 100   | A class was created that provides functions for generating random numbers that are deterministic as JavaScript has no seeded deterministic random generator built in. Most of the time went to reaserch on good random generator algorithms and hashing algorithms to hash the seed. But overall the result is a very good random generator for the purpose we need it for of being able to generate random events in the simulation, that can be seeded to always generate the same events every time.   |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+| Planned task    | Planned Progress %    | Planned result    |
+|---------------- | --------------------- | ----------------- |
+| Planning of week 8 | 100    | Plan our week together on our monday at KnowIT offices |
+| Implement hashing of settings object    | 100    | A settings JSON object from the user should be hashable by this class or function/s so user settings can be easily saved in the users URL in one hashed string containing the JSON object.     |
+| Demo with customer monday    | 100    | Get some feedback    |
+
+
+### PROBLEMS & SOLUTIONS 
+This week went on quite smoothly as we all did work in pairs, the problem that appeared this week was to make our random generator give satisfactory results. We tried a few different ways to generate number, but found that we would get the same results regardless of seed after a while because how we were manipulating the seed to generate a different number each time the random function was called. The thing that caused this was the hashing algorithm we had chosen at first was hashing the seed, and was generating to similar results. After switching out the hashing algorithm with another one, that is more robust and that also allows for a seed in the form of a number we could provide a number each iteration and generate a different hash from the same seed. Giving us faster performing and more robust randomness.
+
+### REFLECTION  
+This was a interesting week a it was the first week of our team actually writing code, so now we could actually see how all our preparations have gone. We also decided to do our first sprint in pairs (pair programming), and I think this was a very good decision as the experience level in the group is as any group varying, so we can easier keep track of progress of 5 pairs compared to 10 Individuals, as well as the pairs hopefully keeping each other in check. I think this has worked out well, and we had a good first week of the sprint, where we managed to deliver on what the customer asked for to be done for a demo on Monday next week. Since we decided early on that we would require code reviews and try to involve everyone in all code that is written to spread knowledge of the codebase and make sure everyone know what Is going on. I personally learned a few nice things about JavaScript/TypeScript as how the socket.io websocket library works from doing code reviews of other members code. And by requiring that we all write tests for all features we implement I had a chance and will continue to learn about the jest JavaScript/TypeScript testing framework as the course goes on. Relating to the quality assurance lectures, definition of done was mentioned, which is something we use in our issues/tasks in GitLab, which is very nice when developing to have clear definition to refer too, to assure that the feature is implemented properly.
+
 ## WEEK: 7 
 ### This week: 23h
 - Meetings/Group work 13h
 - Individual work 4h
 - Pair work 6h
-### Total in project: 59h 
+### Total in project: 82h 
 
 ### ACTIVITY/TASKS & RESULT
 | Task            | hours   | Progress %    | Result    |
