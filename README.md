@@ -15,7 +15,7 @@
 | Task                                            | hours | Progress % | Result                                                                                                                                                             |
 | ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Work on task #9 slider component for powerlines | 10    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
-| Group/Pair programming                          | 2     | 100        | Helped out some people in the group with react and the components they where working in. Namely the start menu and log table.                                      |
+| Group/Pair programming                          | 2     | 100        | Helped some people in the group with react and the components they where working in. Namely the start menu and log table.                                          |
 
 ### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
 
