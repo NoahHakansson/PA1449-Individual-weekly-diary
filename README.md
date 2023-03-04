@@ -1,5 +1,37 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 9
+
+### This week: 21h
+
+- Meetings/Group work 9h
+- Individual work 10h
+- Pair work 2h
+
+### Total in project: 126h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                            | hours | Progress % | Result                                                                                                                                                             |
+| ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Work on task #9 slider component for powerlines | 10    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
+| Group/Pair programming                          | 2     | 100        | Helped out some people in the group with react and the components they where working in. Namely the start menu and log table.                                      |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task              | Planned Progress % | Planned result                                                                                                                                                                                          |
+| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 10       | 100                | Plan our week together on our monday at KnowIT offices, and what each person will be doing during the next week. And how last week went for everyone and if there is something someone needs help with. |
+| Demo with customer monday | 100                | Get some feedback from the customer and see what we should focus on next week, if the demo lives up to expectations.                                                                                    |
+
+### PROBLEMS & SOLUTIONS
+
+No real problems this week, everyone worked very well and we got a lot of stuff done in my opinion. Can not really complain.
+
+### REFLECTION
+
+Again I think we had a good productive week which is becoming a bit boring to say every single week. But I really think that this group is filled with motivated and good people that all want to do their best to contribute and do a good job, Attendance for meetings could be better for some members. But no one is not doing work and contributing with code towards a completed product which is still great.
+
 ## WEEK: 8
 
 ### This week: 23h
@@ -8,7 +40,7 @@
 - Individual work 7h
 - Pair work 2h
 
-### Total in project: 82h
+### Total in project: 105h
 
 ### ACTIVITY/TASKS & RESULT
 
