@@ -13,8 +13,8 @@
 
 | Task                                            | hours | Progress % | Result                                                                                                                                                             |
 | ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Work on task #69 sending ticks containing the game state and not just a number as before. | 10    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
-| Work on task #44 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 9    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
+| Work on task #69 sending ticks containing the game state and not just a number as before. | 10    | 100        | Backend now sends a snapshot of the simulation state to the frontend each tick so the frontend can reflect changes in the UI. |
+| Work on task #44 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 9    | 100        | Frontend now shows ticks elapsed vs max ticks which is gotten from the backend each tick, temeprature and current power production is also displayed in the UI. Types in typescript for a simulation tick are implemented to make developing easier for other members of the team.  |
 
 ### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
 
