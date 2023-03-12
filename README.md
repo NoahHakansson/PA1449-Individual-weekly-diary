@@ -1,5 +1,35 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 10
+
+### This week: 25h
+
+- Meetings/Group work 6h
+- Individual work 19h
+
+### Total in project: 153h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                            | hours | Progress % | Result                                                                                                                                                             |
+| ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Work on task #69 sending ticks containing the game state and not just a number as before. | 10    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
+| Work on task #44 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 9    | 100        | Started work on and finished a slider component that popups when clicking a powerline and allows the user to change between 0-100 % power deliviery on that cable. |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task              | Planned Progress % | Planned result                                                                                                                                                                                          |
+| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 11       | 100                | Assign tasks from out sprint backlog to each memeber of the team.|
+
+### PROBLEMS & SOLUTIONS
+
+Lots of things that were placeholders in the backend and frontend had to be changed and things had to be reworked and re implemented in both. As everyone else was implementing things based on the state of the project before i had to rework everything, it was quite a lot of work to merge and sometimes change their code to work with the new way. But integration hell is not something that cannot always be avoided and sometimes we just need to "waste" some time on merging a bunch of code when a lot of things change at once.
+
+### REFLECTION
+
+I had a productive week, and i think the same goes for my team. I had some personal things going on with my grandmother being in the hospital and was not able to go to our Friday meetings because of this. But my group kept me up to date in our discord.
+
 ## WEEK: 9
 
 ### This week: 21h
