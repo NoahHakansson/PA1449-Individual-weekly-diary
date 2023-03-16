@@ -1,5 +1,35 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 11
+
+### This week: 11h
+
+- Meetings/Group work 6h
+- Individual work 5h
+
+### Total in project: 164h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                            | hours | Progress % | Result                                                                                                                                                             |
+| ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Work on task #79 sending ticks containing the game state and not just a number as before. | 2    | 50        | Backend now sends a snapshot of the simulation state to the frontend each tick so the frontend can reflect changes in the UI. |
+| Work on task #100 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 1    | 30        | Frontend now shows ticks elapsed vs max ticks which is gotten from the backend each tick, temeprature and current power production is also displayed in the UI. Types in typescript for a simulation tick are implemented to make developing easier for other members of the team.  |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task              | Planned Progress % | Planned result                                                                                                                                                                                          |
+| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 11       | 100                | Assign tasks from out sprint backlog to each memeber of the team.|
+
+### PROBLEMS & SOLUTIONS
+
+Week has been very busy, and it's not over yet. Will work a lot more during Friday and during the weekend with the group and update weekly diary after that.
+
+### REFLECTION
+
+Week has been very busy, and it's not over yet. Will work a lot more during Friday and during the weekend with the group and update weekly diary after that.
+
 ## WEEK: 10
 
 ### This week: 25h
