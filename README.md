@@ -2,33 +2,34 @@
 
 ## WEEK: 11
 
-### This week: 11h
+### This week: 26h
 
-- Meetings/Group work 6h
-- Individual work 5h
+- Meetings/Group work 12h
+- Individual work 14h
 
-### Total in project: 164h
+### Total in project: 179h
 
 ### ACTIVITY/TASKS & RESULT
 
-| Task                                            | hours | Progress % | Result                                                                                                                                                             |
-| ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Work on task #79 sending ticks containing the game state and not just a number as before. | 2    | 50        | Backend now sends a snapshot of the simulation state to the frontend each tick so the frontend can reflect changes in the UI. |
-| Work on task #100 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 1    | 30        | Frontend now shows ticks elapsed vs max ticks which is gotten from the backend each tick, temeprature and current power production is also displayed in the UI. Types in typescript for a simulation tick are implemented to make developing easier for other members of the team.  |
+| Task                                                                                                  | hours | Progress % | Result                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------- | ----- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Work on task #79 floating text with powerplant KWh                                                    | 2     | 100        | Frontend now shows a floating text with KWh.                                                                                                                                                                                                                                                                                             |
+| Work on task #100 and #101 to send settings object from frontend and take in settings to the backend. | 9     | 100        | Now settings type exists in both back and frontend and we can send a whole settings object that the user will be able to change in the future to the backend and it can start a simulation with these settings at the moment only seed can be changes by the user, and a EasySettings object exists in the frontend that is the default. |
 
 ### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
 
-| Planned task              | Planned Progress % | Planned result                                                                                                                                                                                          |
-| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Planning of week 11       | 100                | Assign tasks from out sprint backlog to each memeber of the team.|
+| Planned task                                                    | Planned Progress % | Planned result                                                    |
+| --------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------- |
+| Planning of week 12                                             | 100                | Assign tasks from out sprint backlog to each memeber of the team. |
+| Refactor code to actually deep copy class objects to fix a bug. | 100                | All buggy copies of objects should be fixes using lodash.         |
 
 ### PROBLEMS & SOLUTIONS
 
-Week has been very busy, and it's not over yet. Will work a lot more during Friday and during the weekend with the group and update weekly diary after that.
+As was discussed in the hod meetings we have an issue with having enough time to plan our sprints properly and we don't write enough descriptions for tasks so they are clear and it's easy to understand what to do. We will try to split up out creating tasks to pairs and then go through them together after to be more effective and do more parallel work.
 
 ### REFLECTION
 
-Week has been very busy, and it's not over yet. Will work a lot more during Friday and during the weekend with the group and update weekly diary after that.
+There are a lot of things about our team that works well and I think everyone is motivated to do a good job, and that is why we have still managed so well since everyone is trying their best and working hard. But we are not as effective as we could be and if we had better planning I think we could be a really effective team.
 
 ## WEEK: 10
 
@@ -41,16 +42,16 @@ Week has been very busy, and it's not over yet. Will work a lot more during Frid
 
 ### ACTIVITY/TASKS & RESULT
 
-| Task                                            | hours | Progress % | Result                                                                                                                                                             |
-| ----------------------------------------------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Work on task #69 sending ticks containing the game state and not just a number as before. | 10    | 100        | Backend now sends a snapshot of the simulation state to the frontend each tick so the frontend can reflect changes in the UI. |
-| Work on task #44 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 9    | 100        | Frontend now shows ticks elapsed vs max ticks which is gotten from the backend each tick, temeprature and current power production is also displayed in the UI. Types in typescript for a simulation tick are implemented to make developing easier for other members of the team.  |
+| Task                                                                                                                              | hours | Progress % | Result                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Work on task #69 sending ticks containing the game state and not just a number as before.                                         | 10    | 100        | Backend now sends a snapshot of the simulation state to the frontend each tick so the frontend can reflect changes in the UI.                                                                                                                                                      |
+| Work on task #44 using the game ticks send in the frontend to show information about the simulation such as temperature and more. | 9     | 100        | Frontend now shows ticks elapsed vs max ticks which is gotten from the backend each tick, temeprature and current power production is also displayed in the UI. Types in typescript for a simulation tick are implemented to make developing easier for other members of the team. |
 
 ### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
 
-| Planned task              | Planned Progress % | Planned result                                                                                                                                                                                          |
-| ------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Planning of week 11       | 100                | Assign tasks from out sprint backlog to each memeber of the team.|
+| Planned task        | Planned Progress % | Planned result                                                    |
+| ------------------- | ------------------ | ----------------------------------------------------------------- |
+| Planning of week 11 | 100                | Assign tasks from out sprint backlog to each memeber of the team. |
 
 ### PROBLEMS & SOLUTIONS
 
