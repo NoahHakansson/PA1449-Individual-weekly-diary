@@ -1,5 +1,37 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 13
+
+### This week: 19h (so far)
+
+- Meetings/Group work 2h
+- Individual work 15h
+- Pair programming 2h
+
+### Total in project: 233h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                                    | hours | Progress % | Result                                                                                                                                                                                                                                        |
+| ------------------------------------------------------- | ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Work on task #97 Some bugs appeared since last week.    | 3     | 80         | Some bugs appeared during the review process and then after that i have been playing whack-a-mole with new bugs appearing after every other bug I fix. task #110 also exposed some bugs, but now I am pretty sure I got only bug left to fix. |
+| Work on task #110 Multiple powerplants in a simulation. | 3     | 100        | Simulation should support multiple powerplants in a simulation that can connect to many cities. It's done, but as mentioned, revealed some bugs in the underlying power and damage system, which is good.                                     |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task                                                                                                                                                                                                                                                                                                                                                                                                                       | Planned Progress % | Planned result                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 14                                                                                                                                                                                                                                                                                                                                                                                                                | 100                | discuss how last week went, and assign tasks from out sprint todo/backlog to each memeber of the team.                                                  |
+| Add more integration tests for issue #95 and fix the templates for simulations, as we planned that when the damage system was implemented we would notice that the simulation templates where not made in a good way, without actually seeing what happens in the simulation (damage, power draw depedning on temperature etc...) And this was as we planned the case, so finish up that part of this issue, to fix the templates. | 100                | New good templates that actually work and are "playable" where the user can do changes and not just instantly lose because there is never enough power. |
+
+### PROBLEMS & SOLUTIONS
+
+As mentioned in the tasks section problems existed because of faulty code, not implemented following the design of the system. This was solved by rewriting it from scratch, by me and 2 more members. More rigorous testing and more strict quality control should be done before a new features code is accepted. As this code that was wrong was still reviewed and at first accepted by me and one more member as it looked good to us in the moment. This is therefore also our fault not noticing this sooner so that it could of been reworked instantly by that person submitting the code, instead of us noticing after.
+
+### REFLECTION
+
+I think this week we really took planning more seriously and I think it has helped with keeping us more organized and being much clearer what we need to do, you have a clearer picture if what needs to be done. We also adopted story points after our review meeting. As we have a gap in experience of the technologies we use, some take longer and some take a shorter time to deliver the same work. And story points feel like they will give us a good way to estimate complexity and how long a task will take depending on the person. We just need to get through or first sprint with story points to see what our velocity will be and what each members velocity will be as well. Then we will be able to plan even better coming weeks and sprints being able to estimate tasks much better based on our teams velocity.
+
 ## WEEK: 12
 
 ### This week: 35h
@@ -22,18 +54,18 @@
 
 ### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
 
-| Planned task                                                                                                                                                                                                                                                                                                                                                                                                                       | Planned Progress % | Planned result                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Planning of week 12                                                                                                                                                                                                                                                                                                                                                                                                                | 100                | discuss how last week went, and assign tasks from out sprint todo/backlog to each memeber of the team.                                                  |
-| Add more integration tests for issue #95 and fix the templates for simulations, as we planned that when the damage system was implemented we would notice that the simulation templates where not made in a good way, without actually seeing what happens in the simulation (damage, power draw depedning on temperature etc...) And this was as we planned the case, so finish up that part of this issue, to fix the templates. | 100                | New good templates that actually work and are "playable" where the user can do changes and not just instantly lose because there is never enough power. |
+| Planned task                                                                                                | Planned Progress % | Planned result                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 13                                                                                         | 100                | discuss how last week went, and assign tasks from out sprint todo/backlog to each memeber of the team.                                                                                                                                                               |
+| Meetings with teams about how buildings should take damage and maybe heal when they get enough power again. | 100                | We should of decided and sketched out and documented how this kind of things should happen, and have researched some things like how long houses can stay without power, hospitals and indutrsy in the real world so we can use this information for our simulation. |
 
 ### PROBLEMS & SOLUTIONS
 
-As mentioned in the tasks section problems existed because of faulty code, not implemented following the design of the system. This was solved by rewriting it from scratch, by me and 2 more members. More rigorous testing and more strict quality control should be done before a new features code is accepted. As this code that was wrong was still reviewed and at first accepted by me and one more member as it looked good to us in the moment. This is therefore also our fault not noticing this sooner so that it could of been reworked instantly by that person submitting the code, instead of us noticing after.
+Some people were sick this week and we didn't have to much to discuss on Monday, so we have all just been hard at coding, trying to work through our sprint backlog.
 
 ### REFLECTION
 
-I think this week we really took planning more seriously and I think it has helped with keeping us more organized and being much clearer what we need to do, you have a clearer picture if what needs to be done. We also adopted story points after our review meeting. As we have a gap in experience of the technologies we use, some take longer and some take a shorter time to deliver the same work. And story points feel like they will give us a good way to estimate complexity and how long a task will take depending on the person. We just need to get through or first sprint with story points to see what our velocity will be and what each members velocity will be as well. Then we will be able to plan even better coming weeks and sprints being able to estimate tasks much better based on our teams velocity.
+Has been a productive week for me, even tho i have spent more time on the issue i have than i thought, the product will benefit from more through testing and as this system is the base and most important part of the whole system i don't mind if it takes a bit longer to finish, most important is that it is as correct as we can get it. Before we start adding even more things too it, and things will be even harder to fix or maintain.
 
 ## WEEK: 11
 
