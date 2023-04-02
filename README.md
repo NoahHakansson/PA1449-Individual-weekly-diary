@@ -2,11 +2,11 @@
 
 ## WEEK: 13
 
-### This week: 19h (so far)
+### This week: 30h
 
-- Meetings/Group work 2h
-- Individual work 15h
-- Pair programming 2h
+- Meetings/Group work 5h
+- Individual work 22h
+- Pair programming 3h
 
 ### Total in project: 233h
 
