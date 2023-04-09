@@ -1,5 +1,36 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 14
+
+### This week: 20h
+
+- Meetings/Group work 2h
+- Individual work 16h
+- Pair programming 2h
+
+### Total in project: 233h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                          | hours | Progress % | Result                                                                  |
+| --------------------------------------------- | ----- | ---------- | ----------------------------------------------------------------------- |
+| Work on task #97 Fix power and damage system. | 3     | 18         | Task is now finally finished, reviews, and merged into the main branch. |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task        | Planned Progress % | Planned result                                                                                                                                |
+| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning of week 14 | 100                | discuss how last week went, and assign tasks from out sprint todo/backlog to each memeber of the team.                                        |
+| Sprint planning     | 100                | Do sprint planning for the next sprint on thursday as the holidays messed with our schedule, and thursday is the first day we can all fit in. |
+
+### PROBLEMS & SOLUTIONS
+
+Finally fixed and merged fixes for the biggest main feature of the system, the power distribution and related to that the damage system. After making it work, I instantly noticed how I can make it better, now that I made it work and understand how its working I can make improvements to the implementation to make it less confusing for everyone else. The first solution had a lot och recursive functions, which in this system is hard to avoid as some objects, cities, can have cables that have cities, that have cables... and so on. So my first solution was to recursively go through all cities and cables when something was needed to be done. Which worked, but can be very hard for other members of the team and also KnowIT, to understand when it's time for them to take over the system. So after some changes, the simulation now keeps a list of all the cables, and a list of all the cities. So that we can easily just iterate over them when we need to check cities buildings damage etc. While the power distribution is still kept somewhat recursive as it needs to propagate throughout the system step by step.
+
+### REFLECTION
+
+Very productive week, and I think we are now in a much better spot to continue developing as the main backbone of the system that everything else depends on is in place. Now we can start to actually run the simulation, play around with templates/scenarios(different setups of cities and powerplants and cables) to see what works and is good for the user. Before we could only guess what might work. But now we can finally test and see what actually happens. We will be improving the damage system to be more realistic, which is something we could not start until the power distribution and super basic damage was done. So I am looking forward to actually play around with the simulation now and really see it come to life in the next sprint.
+
 ## WEEK: 13
 
 ### This week: 30h
