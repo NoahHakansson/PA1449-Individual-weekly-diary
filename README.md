@@ -8,7 +8,7 @@
 - Individual work 16h
 - Pair programming 2h
 
-### Total in project: 233h
+### Total in project: 260h
 
 ### ACTIVITY/TASKS & RESULT
 
@@ -39,7 +39,7 @@ Very productive week, and I think we are now in a much better spot to continue d
 - Individual work 22h
 - Pair programming 3h
 
-### Total in project: 233h
+### Total in project: 230h
 
 ### ACTIVITY/TASKS & RESULT
 
