@@ -1,5 +1,34 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 15
+
+### This week: 13h
+
+- Meetings/Group work 6h
+- Individual work 7h
+
+### Total in project: 273h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                          | hours | Progress % | Result                                            |
+| --------------------------------------------- | ----- | ---------- | ------------------------------------------------- |
+| Work on task #97 Fix power and damage system. | 3     | 100        | Merged MRs after some small changes after review. |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task        | Planned Progress % | Planned result                                                                                         |
+| ------------------- | ------------------ | ------------------------------------------------------------------------------------------------------ |
+| Planning of week 14 | 100                | discuss how last week went, and assign tasks from out sprint todo/backlog to each memeber of the team. |
+
+### PROBLEMS & SOLUTIONS
+
+We had some discussions about what is important or not to do in this next sprint as, we are pretty much done with our commitment other than the AI, part. Which is almost there. And the built out damage system with a lot more depth, than the current `if (power < neededPower) takeDamage(10);`, this is not a MVP requirement but something which would be very nice and give the simulation a more real feeling and not so static. So we decided this was a big priority this sprint. As well as general UI improvements, adding some new icons for different power plant types, and introducing a wind power plant that will have its power delivery dependent on a new variable in the simulation, wind speed. There weren't really any problems as everyone agreed on this being the most important things to work on next.
+
+### REFLECTION
+
+We discussed about our next sprint and did some planning. It went well and we have a good plan for the next sprint and a backlog of things and an idea of what we will do on the last sprint as well, so we are ready when its the last 3 weeks for us to work on the project, so we finish it up properly and look for any remaining weirdness/bugs etc...
+
 ## WEEK: 14
 
 ### This week: 20h
