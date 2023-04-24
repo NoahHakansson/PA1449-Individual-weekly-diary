@@ -1,5 +1,46 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 16
+
+### This week: 25h
+
+- Meetings/Group work 9h
+- Individual work 12h
+- Pair programming 4h
+
+### Total in project: 298h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                                 | hours | Progress % | Result                                                                                    |
+| ---------------------------------------------------- | ----- | ---------- | ----------------------------------------------------------------------------------------- |
+| Small refactoring and cleanup of the backend system. | 2     | 100        | Made minor improvements to code quality, readability, and maintainability. Pending merge. |
+| Work on frontend component of CityOverview (MAX-153) | 5     | 40         | Basic layout and functionality implemented, ongoing work.                                 |
+| Help groupmate on task MAX-84 (pair programming)     | 4     | N/A        | Provided assistance and guidance in the development of the frontend settings component.   |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task                                       | Planned Progress % | Planned result                                                                                             |
+| -------------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Continue CityOverview frontend component (MAX-153) | 90                 | Have the component mostly complete and ready for code review.                                              |
+| Planning of week 17                                | 100                | Discuss the progress of the past week and assign tasks from the sprint backlog to each member of the team. |
+
+### PROBLEMS & SOLUTIONS
+
+This week, I made some small improvements to the backend system by refactoring and cleaning up the code. Although these changes were minor, they still contributed to a better codebase. Unfortunately, the merge request for these changes is pending due to a GitLab issue that occurred on Friday. We plan to discuss this issue with the company on Monday to find a solution.
+
+During the development of the CityOverview frontend component (MAX-153), I encountered some challenges, but progress has been made. The task is still ongoing, and I will continue working on it in the coming week.
+
+In the pair programming session, I helped a groupmate with their task (MAX-84) concerning the frontend settings component. This collaboration helped advance the task.
+
+### REFLECTION
+
+Even though the refactoring and cleanup of the backend system involved only minor changes, it still contributed to an improved codebase. However, the GitLab issue prevented me from merging the changes, which is something I plan to address with the company on Monday.
+
+My primary focus this week was on the CityOverview frontend component (MAX-153), where progress has been made, and I will continue to work on it in the coming week, aiming to have it 90% complete and ready for code review.
+
+The pair programming session allowed me to support a groupmate with their task (MAX-84) and foster a collaborative environment. This experience shows that teamwork and knowledge sharing are essential for the success of our project.
+
 ## WEEK: 15
 
 ### This week: 13h
