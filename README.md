@@ -1,5 +1,43 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 17
+
+### This week: 24h
+
+- Meetings 3h
+- Group work 4h
+- Individual work 17h
+
+### Total in project: 322h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                             | hours | Progress % | Result                                                                                        |
+| ------------------------------------------------ | ----- | ---------- | --------------------------------------------------------------------------------------------- |
+| Continue and finish frontend component (MAX-153) | 17    | 100        | Completed the CityOverview frontend component after addressing design concerns with the team. |
+| Help a team member with task (MAX-84)            | 4     | -          | Assisted a team member in progressing with their task.                                        |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task                        | Planned Progress % | Planned result                                                                                             |
+| ----------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Sprint planning for the last sprint | 100                | Define the goals and assign tasks for the final sprint of the project.                                     |
+| Planning of week 18                 | 100                | Discuss the progress of the past week and assign tasks from the sprint backlog to each member of the team. |
+
+### PROBLEMS & SOLUTIONS
+
+This week, I focused on finishing the CityOverview frontend component (MAX-153). I faced challenges in handling references to many dynamically created objects in React, something I hadn't done before. I had to refactor my implementation multiple times until I was satisfied with the quality. The problem was specifically related to referencing these dynamic components from various places in the code.
+
+After some back-and-forth with the team regarding the design, I was able to complete the component as planned.
+
+I also helped a team member with their task (MAX-84) at the start of the week after our meeting on monday.
+
+### REFLECTION
+
+Week 17 was mostly about individual work, except for the meeting on monday, as valborg occurred this weekend, we had no meeting on friday. I managed to finish the CityOverview frontend component (MAX-153) after addressing design concerns and overcoming challenges related to handling dynamic objects in React.
+
+As we enter the last sprint of the project next week, we'll have a sprint planning meeting to define our goals and assign tasks for the final phase. I'm excited to work with the team to wrap up the project on a high note.
+
 ## WEEK: 16
 
 ### This week: 25h
