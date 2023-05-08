@@ -1,5 +1,36 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 18
+
+### This week: 10h
+
+- Meetings/Group work 4h
+- Individual work 6h
+
+### Total in project: 328h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                             | hours | Progress % | Result                                                                                         |
+| ------------------------------------------------ | ----- | ---------- | ---------------------------------------------------------------------------------------------- |
+| Work on task MAX-143 Fix PowerSlider             | 4     | 20         | Made progress on the PowerSlider issue but not completed yet.                                  |
+| Bug fixes for logo and log-component positioning | 2     | 100        | Fixed positioning issues with the logo and log-component that were noticed during our meeting. |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task                          | Planned Progress % | Planned result                                                                                             |
+| ------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Planning of week 19                   | 100                | Discuss the progress of the past week and assign tasks from the sprint backlog to each member of the team. |
+| Continue task MAX-143 Fix PowerSlider | 60                 | be mostly done with the powerslider fixes. To the point where it can start being tested for quality.       |
+
+### PROBLEMS & SOLUTIONS
+
+During week 18, my focus was mostly on my thesis, which took up a significant amount of time. As a result, I didn't make as much progress on project tasks as I would have liked. However, I managed to work on MAX-143 Fix PowerSlider and made some progress, though it is not completed yet. I also fixed a few bugs related to the positioning of the logo and log-component that we noticed during our meeting on Friday.
+
+### REFLECTION
+
+Week 18 was a bit slow in terms of project work, mainly due to my thesis taking up most of my time. I managed to work on task MAX-143 Fix PowerSlider and addressed some bug fixes related to the positioning of the logo and log-component. Next week, I plan to continue working on the PowerSlider issue.
+
 ## WEEK: 17
 
 ### This week: 24h
