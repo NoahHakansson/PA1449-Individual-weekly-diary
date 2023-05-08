@@ -7,7 +7,7 @@
 - Meetings/Group work 4h
 - Individual work 6h
 
-### Total in project: 328h
+### Total in project: 332h
 
 ### ACTIVITY/TASKS & RESULT
 
