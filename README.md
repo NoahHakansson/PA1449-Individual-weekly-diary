@@ -1,5 +1,37 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 19
+
+### This week: 10h
+
+- Meetings/Group work 2h
+- Individual work 8h
+
+### Total in project: 340h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                                       | hours | Progress % | Result                                                                   |
+| ------------------------------------------ | ----- | ---------- | ------------------------------------------------------------------------ |
+| Completion of task MAX-143-Fix-Powerslider | 4     | 100        | Completed the task, the solution is now more intuitive and much simpler. |
+| Bug fixing                                 | 4     | 100        | Fixed reported bugs in the system.                                       |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task            | Planned Progress % | Planned result                                                                                             |
+| ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Planning of week 20     | 100                | Discuss the progress of the past week and assign tasks from the sprint backlog to each member of the team. |
+| Last demo with customer | 100                | Have the last demo with the customer.                                                                      |
+| Continue with bug fixes | 100                | Identify and fix any remaining bugs in the system.                                                         |
+
+### PROBLEMS & SOLUTIONS
+
+This week, my focus was on finishing the task MAX-143-Fix-Powerslider from last week, which led to a more intuitive and simpler solution. I spent the rest of the week bug fixing.
+
+### REFLECTION
+
+The focus of week 19 was primarily on refining the system and ensuring its smooth operation. I personally completed the task MAX-143-Fix-Powerslider. And fixes some general bugs and helped my team out where needed.
+
 ## WEEK: 18
 
 ### This week: 10h
