@@ -1,5 +1,40 @@
 # Weekly Diary - Noah Håkansson
 
+## WEEK: 20
+
+### This week: 15h
+
+- Meetings/Group work 4h
+- Individual work 6h
+- Code reviews 2h
+
+### Total in project: 357h
+
+### ACTIVITY/TASKS & RESULT
+
+| Task                           | hours | Progress % | Result                                                                          |
+| ------------------------------ | ----- | ---------- | ------------------------------------------------------------------------------- |
+| Bug fixing                     | 2     | 100        | Fixed reported bugs in the system.                                              |
+| Modify speed options (MAX-181) | 3     | 100        | Removed unlimited speed option and replaced it with a maximum 20x speed option. |
+| Code reviews                   | 2     | 100        | Reviewed team members' code and provided feedback.                              |
+| Deployment to AWS              | 1     | 80         | Helped the team to get the application deployed and running on AWS.             |
+| Final Customer Demo            | 1     | 100        | Participated in the final customer demo. It went well.                          |
+
+### PLANNED ACTIVITIES/TASKS AND PROGRESS NEXT WEEK
+
+| Planned task            | Planned Progress % | Planned result                                                                                             |
+| ----------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Planning of week 21     | 100                | Discuss the progress of the past week and assign tasks from the sprint backlog to each member of the team. |
+| Continue with bug fixes | 100                | Identify and fix any remaining bugs in the system.                                                         |
+
+### PROBLEMS & SOLUTIONS
+
+The main challenge this week was ensuring that everything ran smoothly for our final customer demo. We had to work together to get the application deployed on AWS, which required some additional work for the team members. But, we managed to get everything up and running in time.
+
+### REFLECTION
+
+Week 20 was a significant week, with our final customer demo taking place. I'm pleased to report that it went well. The team worked collaboratively to get the app hosted on AWS. I also had the opportunity to contribute to this effort by fixing bugs and improving the speed options in the system (task MAX-181). Looking ahead to week 21, I plan to continue with bug fixes with the rest of the team, as all major tasks are done, and only fixes and touchups are left.
+
 ## WEEK: 19
 
 ### This week: 10h
@@ -7,7 +42,7 @@
 - Meetings/Group work 2h
 - Individual work 8h
 
-### Total in project: 340h
+### Total in project: 342h
 
 ### ACTIVITY/TASKS & RESULT
 
